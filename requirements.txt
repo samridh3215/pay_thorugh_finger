@@ -1,0 +1,8 @@
+board
+busio
+oled-text
+requests
+pymongo
+Flask
+digitalio
+adafruit-circuitpython-fingerprint
