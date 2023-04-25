@@ -1,6 +1,7 @@
 # Integrated Payment System with Student's Fingerprint
 
 **This project reqires a raspberrypi 3/4, r307 fingerprint module and an oled display to work**
+**I2C and UART must be enabled on the raspberry pi** 
 
 ## Making the connections
 
