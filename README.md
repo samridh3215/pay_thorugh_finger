@@ -2,6 +2,11 @@
 
 **This project reqires a raspberrypi 3/4, r307 fingerprint module and an oled display to work**
 
+## Making the connections
+
+![image](https://user-images.githubusercontent.com/89855495/234311859-55ca2e65-e1aa-4e68-b83f-298a341c7485.png)
+
+
 ## Installing the dependencies 
 
 Run ```pip install -r requirements.txt``` to install dependencies
