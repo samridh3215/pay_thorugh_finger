@@ -11,6 +11,7 @@ Run ```pip install -r requirements.txt``` to install dependencies
 - Verifying and processing payment at the eateries/canteens where the vendor selects the items according to the order
 
 You will need a uri to store and verify the fingerprints. Create a mongodb database and get the uri and store that in a .env file as
+
 ```uri="<your uri>"```
 
 - Run the RegisterFinger.py to enroll yourslef 
